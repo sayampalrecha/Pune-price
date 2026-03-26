@@ -1,0 +1,7 @@
+# App runtime: numpy + streamlit only (model is shipped as model_weights.npz + model_features.json).
+numpy>=1.26,<3
+streamlit>=1.28
+
+# Notebook / export_model_assets.py only
+pandas>=2.0
+scikit-learn>=1.3
