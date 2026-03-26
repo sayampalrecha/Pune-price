@@ -1,5 +1,7 @@
 # 🏠 Pune House Price Prediction
 
+## Link to the [dashboard](https://pune-price-prediction.streamlit.app/)
+
 A machine learning project that predicts residential property prices in Pune, India. It includes a full data science notebook for model training and a lightweight **Streamlit web app** that runs inference using only NumPy — no scikit-learn required at runtime.
 
 ---
